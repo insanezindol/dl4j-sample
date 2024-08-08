@@ -11,4 +11,4 @@
 
 ## Testing
 ### The result that deep learning drew for about 30 minutes
-![1](https://user-images.githubusercontent.com/32256571/206897162-4fdb8785-b8e4-4f62-9f79-a6bef7b8fc26.png)
+![1](https://github.com/insanezindol/dl4j-sample/blob/master/result.png)
